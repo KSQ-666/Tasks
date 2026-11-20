@@ -26,6 +26,7 @@
 
 [参考1](https://zhuanlan.zhihu.com/p/2039476585993090403)
 [参考2](https://zhuanlan.zhihu.com/p/337959303)
+[参考3](https://docs.github.com/zh/get-started)
 
 # 关于打开GitHub
 经历：
