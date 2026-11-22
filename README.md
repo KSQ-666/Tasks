@@ -24,8 +24,7 @@
 
 
 
-
-[git练习文档]{https://github.com/KSQ-666/Tasks/blob/main/hallo.md}
+[git练习文档](https://github.com/KSQ-666/Tasks/blob/main/hallo.md)
 
 
 
