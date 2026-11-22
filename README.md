@@ -16,7 +16,7 @@
 [考核一问题解决记录](https://github.com/KSQ-666/Tasks/blob/main/%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E8%AE%B0%E5%BD%95.md)
 
 
-[美化个人Profile README仓库](https://github.com/KSQ-666/KSQ-666/blob/main/README.md}
+[美化个人Profile README仓库](https://github.com/KSQ-666/KSQ-666/blob/main/README.md)
 
 
 
